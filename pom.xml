@@ -42,8 +42,8 @@
       <url>http://35.171.159.171:8081/repository/java-maven-war-app-snapshot/</url>
     </snapshotRepository>
     <repository>
-      <id>java-maven-war-app-releases</id>
-      <url>http://35.171.159.171:8081/repository/java-maven-war-app-releases/</url>
+      <id>java-maven-war-app-release</id>
+      <url>http://35.171.159.171:8081/repository/java-maven-war-app-release/</url>
     </repository>
   </distributionManagement>
 </project>
